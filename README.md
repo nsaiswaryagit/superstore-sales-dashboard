@@ -1,5 +1,3 @@
-# Superstore Sales Dashboard
-
 ## Overview
 Interactive sales dashboard built using Google Sheets on Superstore dataset (10,195 rows).
 
