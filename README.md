@@ -11,10 +11,7 @@ https://docs.google.com/spreadsheets/d/1dwV5MjBoG4c4YK5iWlwMg1C7ziZ6pR_GjIhPrpj6
 
 ## Key Insights
 - High discounts reduce profitability
-- Some sub-categories generate losses
 - Sales trend increasing year over year
 
 ## Tools Used
 - Google Sheets
-- Pivot Tables
-- Data Visualization
